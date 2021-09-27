@@ -1,3 +1,7 @@
+---
+layout: base.njk
+---
+
 # Tjenare
 ## ho haaa
 ### hoooo hahaaaa

@@ -1,0 +1,13 @@
+nav {
+    background-color: rgb(155, 0, 0);
+    ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 0px;
+        li {
+            margin-left: 0rem;
+            margin-top: 1.5rem;
+        }
+    }
+}

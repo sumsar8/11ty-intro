@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "title": "home",
+            "url": "/"
+        },
+        {
+            "title": "Github profile",
+            "url": "/github"
+        }
+    ]
+}

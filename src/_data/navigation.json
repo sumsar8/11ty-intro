@@ -1,8 +1,8 @@
 {
     "items": [
         {
-            "title": "home",
-            "url": "/"
+            "title": "search",
+            "url": "/search"
         },
         {
             "title": "Github profile",

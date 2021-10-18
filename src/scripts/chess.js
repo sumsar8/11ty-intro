@@ -1,7 +1,3 @@
-function searchuser() {
-    usernameInput = document.getElementById("usernameid").value;
-    console.log(usernameInput);
-}
 const Cache = require("@11ty/eleventy-cache-assets");
 
 module.exports = async function () {
@@ -19,3 +15,7 @@ module.exports = async function () {
         return {};
     }
 };
+function searchuser() {
+    usernameInput = document.getElementById("usernameid").value;
+    console.log(usernameInput);
+}
